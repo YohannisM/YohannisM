@@ -12,14 +12,16 @@ Welcome to my GitHub profile! I'm Yohannis, a passionate graphic designer and di
 ## Projects
 
 ### . [Business Cards, Postcards, Thumbnails, LetterHead, Logo etc..]
-- **Description**: Briefly describe your project.
-- **Tech Stack**: List the technologies used (e.g., Adobe Illustrator, Photoshop).
+- **Description**:This project involved a comprehensive redesign of a company's brand identity.
+  It included creating a new logo, developing brand guidelines, designing business cards, letterheads,
+  and marketing materials to ensure a cohesive and modern brand image.
+- **Tech Stack**: List the technologies used (Adobe Illustrator, Photoshop, canva, Figma).
 
 ## Skills
 - **Graphic Design**: Adobe Photoshop, Illustrator, InDesign
 - **Digital Marketing**: SEO, PPC, Google Analytics
 - **Web Development**: HTML, CSS, JavaScript
-- **Content Creation**: Blogging, Copywriting, Video Editing
+- **Content Creation**: Blogging, Copywriting, Ads, Video Editing
 
 ## Get in Touch
 - **Email**: yohannismegos@gmail.com (jman07224@gmail.com)
