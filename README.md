@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm Yohannis, a passionate graphic designer and di
 - **Email**: yohannismegos@gmail.com (jman07224@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/yohannis-megos-a8477232a
 -  **Phone**:+251963083646
+-  
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just have a chat about design and marketing.
 
 ---
